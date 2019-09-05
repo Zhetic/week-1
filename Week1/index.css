@@ -1,0 +1,126 @@
+h1{
+  position: relative;
+  left: 240px;
+  border-radius: 25px;
+  background: #4CAF50;
+  padding: 20px;
+  width: 360px;
+  height: 40px;
+  color: #fff;
+  text-align: center;
+}
+
+#webcam{
+  position: relative;
+  left: 240px;
+  bottom:380px;
+}
+
+#console{
+  width: 400px;
+  height: 400px;
+  background: #ccc;
+  border:10px solid #ddd;
+  margin-left: 230px;
+}
+
+#class-a{
+      position: relative;
+      display: inline-block;
+      padding: 15px 25px;
+      font-size: 24px;
+      cursor: pointer;
+      text-align: center;
+      text-decoration: none;
+      outline: none;
+      color: #fff;
+      background-color: #4CAF50;
+      border: none;
+      border-radius: 15px;
+      box-shadow: 0 9px #999;
+      margin-left: -175px;
+      bottom:350px;
+    }
+
+    #class-a:hover {background-color: #3e8e41}
+
+    #class-a:active {
+      background-color: #3e8e41;
+      box-shadow: 0 5px #666;
+      transform: translateY(4px);
+    }
+
+    #class-b{
+      position: relative;
+      display: inline-block;
+      padding: 15px 25px;
+      font-size: 24px;
+      cursor: pointer;
+      text-align: center;
+      text-decoration: none;
+      outline: none;
+      color: #fff;
+      background-color: #4CAF50;
+      border: none;
+      border-radius: 15px;
+      box-shadow: 0 9px #999;
+      bottom:350px;
+    }
+
+    #class-b:hover {background-color: #3e8e41}
+
+    #class-b:active {
+      background-color: #3e8e41;
+      box-shadow: 0 5px #666;
+      transform: translateY(4px);
+    }
+
+    #class-c{
+      position: relative;
+      display: inline-block;
+      padding: 15px 25px;
+      font-size: 24px;
+      cursor: pointer;
+      text-align: center;
+      text-decoration: none;
+      outline: none;
+      color: #fff;
+      background-color: #4CAF50;
+      border: none;
+      border-radius: 15px;
+      box-shadow: 0 9px #999;
+      bottom:350px;
+    }
+
+    #class-c:hover {background-color: #3e8e41}
+
+    #class-c:active {
+      background-color: #3e8e41;
+      box-shadow: 0 5px #666;
+      transform: translateY(4px);
+    }
+
+    #class-d{
+      position: relative;
+      display: inline-block;
+      padding: 15px 25px;
+      font-size: 24px;
+      cursor: pointer;
+      text-align: center;
+      text-decoration: none;
+      outline: none;
+      color: #fff;
+      background-color: #4CAF50;
+      border: none;
+      border-radius: 15px;
+      box-shadow: 0 9px #999;
+      bottom:350px;
+    }
+
+    #class-d:hover {background-color: #3e8e41}
+
+    #class-d:active {
+      background-color: #3e8e41;
+      box-shadow: 0 5px #666;
+      transform: translateY(4px);
+    }
